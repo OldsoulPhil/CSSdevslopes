@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+  <title>Cool Css Integrations</title>
+<!-- adds to much code will boggle down the load time -->
+  <style>
+    h1 {
+      color: red;
+     }
+    p {
+      color: blue;
+     }
+  </style>
+</head>
+
+<body>
+  <h1>Integrating CSS Methods</h1>
+  <hr>
+  
+  <h2>Internal CSS</h2>
+  <p>please don't use this method</p>
+  
+  <h2> style="color: green;">Inline CSS</h2>
+  <p>Avoid using this</p>
+  
+  <h2>External CSS</h2>
+  <p>This is the best way to rock. Keeps things organized.</p>
+  
+</body>
+</html>
+  
