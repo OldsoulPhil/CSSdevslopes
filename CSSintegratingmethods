@@ -19,7 +19,7 @@
   <h2>Internal CSS</h2>
   <p>please don't use this method</p>
   
-  <h2> style="color: green;">Inline CSS</h2>
+  <h2> style="color: green; font-size: 20px; text-decoration: underline;">Inline CSS</h2>
   <p>Avoid using this</p>
   
   <h2>External CSS</h2>
